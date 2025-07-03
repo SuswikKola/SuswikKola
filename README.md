@@ -19,7 +19,7 @@
 
 ---
 
-### 🎓 Courses Completed (NxtWave CCBP 4.0)
+### 🎓 Courses I Learnt
 
 ✅ Python Essentials  
 ✅ JavaScript Essentials  
