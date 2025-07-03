@@ -11,7 +11,7 @@
 👨‍🏫 **Mentor at Smart Interviews**, guiding others on DSA & coding  
 🎯 **Steering Board Member - ISTE SNIST** & **Organizing Deputy - ECA Club**  
 🌐 Currently learning: `React`, `MongoDB`, `Express.js`  
-📫 Reach me: `suswikkola@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/suswikkola/)
+📫 Reach me: `kolasuswik123@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/suswikkola/)
 
 ---
 
@@ -22,52 +22,16 @@
 ✅ HTML & CSS with Flexbox  
 ✅ Git & GitHub  
 ✅ Responsive Web Design  
-✅ UI/UX Fundamentals with Figma  
+✅ UI/UX Fundamentals  
 ✅ SQL and Database Basics  
 ✅ Problem Solving with DSA
 
 ---
 
 ### 💻 Tech Stack
-<div class="d-flex flex-row">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" /><br>HTML5
-</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" /><br>CSS3
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" /><br>JavaScript
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" /><br>Python
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" /><br>Node.js
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL" /><br>MySQL
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" /><br>Git
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /><br>GitHub
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" width="60" alt="Figma" /><br>Figma
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code" /><br>VS Code
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -78,19 +42,26 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuswikKola&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuswikKola&layout=compact&theme=tokyonight" />
 </p>
-</div>
+
 ---
 
 ### 🏆 GitHub Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SuswikKola&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SuswikKola&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📬 Connect With Me
+### 📬 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suswik-kola/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suswikkola@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/suswik-kola/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kolasuswik123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
