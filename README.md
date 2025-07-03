@@ -20,7 +20,7 @@
 
 ### 🏆 GitHub Profile Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SuswikKola&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuswikKola&theme=onedark)](https://github.com/SuswikKola/github-profile-trophy)
 
 
 ---
