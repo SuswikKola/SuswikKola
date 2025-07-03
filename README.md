@@ -29,7 +29,7 @@
 ---
 
 ### 💻 Tech Stack
-
+<div class="d-flex flex-row">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" /><br>HTML5
 </p>
@@ -78,7 +78,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuswikKola&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuswikKola&layout=compact&theme=tokyonight" />
 </p>
-
+</div>
 ---
 
 ### 🏆 GitHub Achievements
