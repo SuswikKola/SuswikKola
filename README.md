@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Suswik Kola Banner" />
+  <img src="![1743707711277 (1)](https://github.com/user-attachments/assets/1f3bd994-9e84-450e-9e51-44162b59864b)
+" alt="Suswik Kola Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Suswik Kola</h1>
 <h3 align="center">Tech Enthusiast | Web Developer | Mentor | Community Leader</h3>
