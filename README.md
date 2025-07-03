@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SuswikKola/SuswikKola/main/suswik-banner.jpeg" alt="Suswik Kola Banner" style="width:100%; max-height:350px; object-fit:cover;" />
+  <img src="[https://raw.githubusercontent.com/SuswikKola/SuswikKola/main/suswik-banner.jpeg](https://github.com/SuswikKola/SuswikKola/blob/main/1743707711277.jpeg)" alt="Suswik Kola Banner" style="width:100%; max-height:350px; object-fit:cover;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suswik Kola</h1>
