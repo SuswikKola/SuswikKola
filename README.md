@@ -1,9 +1,9 @@
-<h1 align="center">Hey there, I'm Suswik Kola 👋</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Tech Community Leader | Mentor</h3>
+<h1 align="center">Hi 👋, I'm Suswik Kola</h1>
+<h3 align="center">Tech Enthusiast | Web Developer | Mentor | Community Leader</h3>
 
 ---
 
-### 🧑‍🎓 About Me
+### 🚀 About Me
 
 🎓 ECE Student at **Sreenidhi Institute of Science and Technology (SNIST)**  
 💼 Aspiring Full Stack Developer passionate about building real-world web applications  
@@ -11,71 +11,64 @@
 👨‍🏫 **Mentor at Smart Interviews**, guiding others on DSA & coding  
 🎯 **Steering Board Member - ISTE SNIST** & **Organizing Deputy - ECA Club**  
 🌐 Currently learning: `React`, `MongoDB`, `Express.js`  
-📫 Reach me: `suswikkola@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/suswik-kola/)
+📫 Reach me: `suswikkola@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/suswikkola/)
 
 ---
 
-### 💼 Tech Stack
-
-<table>
-<tr>
-<td><b>🌐 Frontend</b></td>
-<td>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>🧠 Backend & Database</b></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>🛠 Tools & Platforms</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎓 Courses I've Completed
+### 🎓 Courses Completed (NxtWave CCBP 4.0)
 
 ✅ Python Essentials  
 ✅ JavaScript Essentials  
-✅ HTML, CSS, Flexbox  
+✅ HTML & CSS with Flexbox  
 ✅ Git & GitHub  
-✅ SQL Basics  
-✅ UI/UX with Figma  
-✅ Responsive Design  
-✅ DSA Problem Solving
+✅ Responsive Web Design  
+✅ UI/UX Fundamentals with Figma  
+✅ SQL and Database Basics  
+✅ Problem Solving with DSA
 
 ---
 
-### 🚀 Projects
+### 💻 Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| 🔍 **Google Clone** | A mini frontend clone of Google homepage |
-| 📚 **Library Management System** | Web app using API + HTTPS requests |
-| 🌤 **Season Changer** | Interactive DOM-based season switcher |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" /><br>HTML5
+</p>
 
-➡️ *More projects coming soon with GitHub Pages links*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" /><br>CSS3
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" /><br>JavaScript
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" /><br>Python
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" /><br>Node.js
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL" /><br>MySQL
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" /><br>Git
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /><br>GitHub
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" width="60" alt="Figma" /><br>Figma
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code" /><br>VS Code
+</p>
 
 ---
 
@@ -94,17 +87,17 @@
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suswik-kola/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suswikkola@gmail.com)
 
 ---
 
-### 👁️ Visitor Counter
+### 👁️ Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SuswikKola)
 
 ---
 
-> 🎯 *“I believe in continuous learning, teamwork, and building solutions that matter. Let's connect and build together!”*
+> 🔥 *"Building the future, one line of code at a time!"*
