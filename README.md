@@ -13,8 +13,7 @@
 🎓 ECE Student at **Sreenidhi Institute of Science and Technology (SNIST)**  
 💼 Aspiring Full Stack Developer passionate about building real-world web applications  
 🧠 Completed 8+ Tech Courses at **Nxtwave CCBP 4.0**  
-👨‍🏫 **Mentor at Smart Interviews**, guiding others on DSA & coding  
-🎯 **Steering Board Member - ISTE SNIST** & **Organizing Deputy - ECA Club**  
+👨‍🏫 **Mentor at Smart Interviews**, guiding others on DSA & coding   
 🌐 Currently learning: `React`, `MongoDB`, `Express.js`  
 📫 Reach me: `kolasuswik123@gmail.com` or on [LinkedIn](https://www.linkedin.com/in/suswikkola/)
 
